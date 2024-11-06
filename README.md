@@ -8,6 +8,7 @@ Es para
 
 ### ¿Qué existe que es similar a la propuesta?
 
-https://bruno-simon.com/
+<https://godly.website/website/10x-designers-981>
+<https://bruno-simon.com/>
 
 ### ¿Qué existe que puede inspirar la propuesta?
