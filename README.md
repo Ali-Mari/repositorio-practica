@@ -1,4 +1,4 @@
-# Repositorio Final - Mari Design
+# Repositorio Final - Moon Design
 
 ### ¿Para qué es esta propuesta?
 Para que las personas puedan interactuar y crear sus propio elementos gráficos mientra navega el portafolio. Se centraría en la experiencia del usuario.
@@ -21,4 +21,4 @@ Para que las personas puedan interactuar y crear sus propio elementos gráficos 
 * 
 
 ### ¿Qué existe que puede inspirar la propuesta?
-* 
+![mockup](https://github.com/user-attachments/assets/72b2c497-670f-4f67-9add-69687c55bc23)
